@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ahmad Atif  
+# 👋 Hi, I'm Ahmed Mohamednoor 
 
-🚀 I’m a passionate **Front-End Developer** (with growing interest in back-end development) who loves turning ideas into interactive digital experiences.  
+<!--🚀 I’m a passionate **Front-End Developer** (with growing interest in back-end development) who loves turning ideas into interactive digital experiences.  
 
 ---
 
